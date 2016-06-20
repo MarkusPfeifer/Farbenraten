@@ -78,7 +78,6 @@ public class MainActivity extends AppCompatActivity {
         }
 
         buttonVorgabe.setBackgroundColor(colors.get(rndNumber));
-
     }
 
     public void onClick(View v){
@@ -119,7 +118,6 @@ public class MainActivity extends AppCompatActivity {
             }
 
             buttonVorgabe.setBackgroundColor(colors.get(rndNumber));
-
         }
         else{
 
